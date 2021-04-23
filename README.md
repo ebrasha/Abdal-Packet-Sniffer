@@ -1,4 +1,4 @@
-# Abdal Php Waf
+# Abdal Packet Sniffer
 
 Simple and fast Packet Sniffer for windows
 
@@ -16,5 +16,5 @@ Ebrahim Shafiei from Iran (Ready to cooperate with international projects)
 
 
 ## License
-Abdal Php Waf is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
+Abdal Packet Sniffer is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
 
